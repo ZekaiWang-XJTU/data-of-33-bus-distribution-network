@@ -1,0 +1,1 @@
+wi = [1;3;2;3;5;2;3;5;3;4;4;1;1;1;2;3;1;4;5;1;2;2;3;3;3;4;3;3;5;2;3;3;1];% value of load at each node,"1" means the most important, "5"means the least important
